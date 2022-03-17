@@ -5,8 +5,9 @@
 - 🔥 Junior Web Developer 
 ### - Learning :
 - ✨ Angular
-- ✨ TypeScript
-- ✨ NodeJS
+- ✨ MySql
+- ✨ Ionic
+- ✨ Java
 ### - Hobbies : 
 - ✨ Gaming
 - ✨ Watching Anime, serie and movie
