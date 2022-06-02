@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, I'm Pedro Henrique</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5px">, I'm Pedro Henrique</h1>
 
 ## About ME 💬 :
 ### - I'm 16 years old Front-End & Back-end Enthusiast from Brazil.
