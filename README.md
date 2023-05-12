@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Pedro Henrique</h1>
 
 ## About ME 💬 :
-### - I'm 16 years old Front-End & Back-end Enthusiast from Brazil.
+### - I'm 17 years old Front-End & Back-end Enthusiast from Brazil.
 - 🔥 Junior Web Developer 
 ### - Learning :
 - ✨ Angular
