@@ -8,6 +8,8 @@
 - ✨ MySql
 - ✨ Ionic
 - ✨ Java
+- ✨ React
+- ✨ React Native
 ### - Hobbies : 
 - ✨ Gaming
 - ✨ Watching Anime, serie and movie
